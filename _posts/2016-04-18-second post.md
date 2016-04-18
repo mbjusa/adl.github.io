@@ -6,22 +6,15 @@ date: 2016-04-18
 
 
 
-header 
-=  
-header2
-==  
-header3
-===  
-header4
-====  
-header5
-=====  
-header6
-======  
+1st header
+====
+2nd header
+----
 
 
 
-# header1 #   
+
+# header1 #
 
 ## header2 ##    
 
