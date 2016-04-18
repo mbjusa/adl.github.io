@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mickey, The Mouse, Launches Site"
+title: "This is the title!!"
 date: 2016-04-17
 ---
 
@@ -18,7 +18,7 @@ This would be a second header !!!
 ##### this should be even smaller text5.#
 ###### this should be even smaller text6.#
 ** this text should be bold and the next line is a link**
-[Jekyll](http://jekyllrb.com)
+
 [mbjgithub](https://github.com/)
 
 **<let's see if I can get a whole paragraph is bold text.
