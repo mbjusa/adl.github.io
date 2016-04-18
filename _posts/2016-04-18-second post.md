@@ -16,11 +16,11 @@ Need a blank line (Enter) between headers or they don't work right.
 
 
 
-# just a return between headers #
+#just a return between headers#
 
-## header2 ##
+##header2##
 
-### header3 ###
+###header3 does it need the spaces?###
 
 ##### header4 ####
 
@@ -33,9 +33,9 @@ Need a blank line (Enter) between headers or they don't work right.
 
 _this text has one underscore and is also italicized_  
 
-**this has two asterisks**
+**this has two asterisks and is bold**
 
-__this text has two underscores and is bold__   
+__this text has two underscores and is also bold__   
 
 [aNameUpick4theLink](https://github.com/)  
 
@@ -43,7 +43,7 @@ __this text has two underscores and is bold__
 
 ![Alt text if img is missing!](http://img.lum.dolimg.com/v1/images/character_mickeymouse_home_mickey_notemplate_3a0db1b2.jpeg?region=0,0,600,600&width=320 "Title of your choice.")
 
-__Let's see if I can get a whole paragraph is bold text.  
+__Let's see if I can get a whole paragraph in bold text.  
 I wonder what will happen..... it should be interesting to  
 find out after this all gets rendered.  
 Markdown is pretty easy to use I think !!!!__  
@@ -57,22 +57,23 @@ __The End !!.....almost__
   
    
    
----   
+---
+---
   
   
-
+>
 1. __placed inside double underscore to make these 3 bold__
 2. Delawa
 3. Tatlo
-
-
 >
+
+
 * this is an item
 * this is another item
 * this is the last item
->
 
->>Now it's really the end !!!!!
+
+>>__Now it's really the end !!!!!__
 >>
 
 
