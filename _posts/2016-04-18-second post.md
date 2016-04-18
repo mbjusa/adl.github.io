@@ -8,7 +8,8 @@ date: 2016-04-18
 
 1st header
 ====
-Need a line between the headers here or they don't work right.
+
+Need a blank line (Enter) between headers or they don't work right.
 2nd header
 ----
 
@@ -28,18 +29,19 @@ Need a line between the headers here or they don't work right.
 ###### header6 ######    
 
 
-*this had an asterisk*  
+*this is italicized*  
 
-_this text had one underscore_  
+_this text has one underscore and is also italicized_  
 
-__this text had two underscores__   
+**this has two asterisks**
 
-[mbjgithub](https://github.com/)  
+__this text has two underscores and is bold__   
 
-[img1]:http://img.lum.XXdolimg.com/v1/images/character_mickeymouse_home_mickey_notemplate_3a0db1b2.jpeg?region=0,0,600,600&width=320  "MM Title"
-![if the pic is not there][img1]  
+[aNameUpick4theLink](https://github.com/)  
 
 
+
+![Alt text if img is missing!](http://img.lum.dolimg.com/v1/images/character_mickeymouse_home_mickey_notemplate_3a0db1b2.jpeg?region=0,0,600,600&width=320 "Title of your choice.")
 
 __Let's see if I can get a whole paragraph is bold text.  
 I wonder what will happen..... it should be interesting to  
@@ -53,20 +55,25 @@ to see if it follows it.
 
 __The End !!.....almost__  
   
-
+   
+   
 ---   
+  
+  
 
-__
-1. placed inside double underscore to make these 3 bold
+1. __placed inside double underscore to make these 3 bold__
 2. Delawa
 3. Tatlo
-__
 
 
-* this is an item  
-* this is another item  
-* this is the last item  
+>
+* this is an item
+* this is another item
+* this is the last item
+>
 
-Now it's really the end !!!!!  
+>>Now it's really the end !!!!!
+>>
+
 
 
