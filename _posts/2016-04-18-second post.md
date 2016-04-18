@@ -8,7 +8,7 @@ date: 2016-04-18
 
 1st header
 ====
-
+Need a line between the headers here or they don't work right.
 2nd header
 ----
 
@@ -17,13 +17,13 @@ date: 2016-04-18
 
 # just a return between headers #
 
-## header2 ##    
+## header2 ##
 
-### header3 ###    
+### header3 ###
 
-##### header4 ####   
+##### header4 ####
 
-##### header5 #####    
+##### header5 #####
 
 ###### header6 ######    
 
@@ -56,11 +56,12 @@ __The End !!.....almost__
 
 ---   
 
-
-1. Isa
+__
+1. placed inside double underscore to make these 3 bold
 2. Delawa
 3. Tatlo
-   
+__
+
 
 * this is an item  
 * this is another item  
