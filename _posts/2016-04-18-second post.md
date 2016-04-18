@@ -13,14 +13,33 @@ I wonder what I should talk about???
 This would be a second header !!!  
 ----------  
 
-#header1  
-##header2  
-###header3  
-####header4  
-#####header5  
-######header6  
+header1  
+=
+header2  
+==
+header3  
+===
+header4  
+====
+header5  
+=====
+header6  
+======
 
-** this text should be bold and the next line is a link**  
+header1  
+-
+header2  
+--
+header3  
+---
+header4  
+----
+header5  
+-----
+header6  
+------
+_this text had one underscore_  
+__this text had two underscores__
 
 [mbjgithub](https://github.com/)  
 
@@ -29,12 +48,15 @@ This would be a second header !!!
 
 
 
->**let's see if I can get a whole paragraph is bold text.  
+>Let's see if I can get a whole paragraph is bold text.  
 I wonder what will happen..... it should be interesting to  
 find out after this all gets rendered.  
-Markdown is pretty easy to use I think !!!!**  
+Markdown is pretty easy to use I think !!!!  
+>
 
-This is some normal text. I am creating a line break right here  
+>>This is some normal text. I am creating a line break right here  
 to see if it follows it.  
+>>  
+The End !!  
 
 
