@@ -6,25 +6,33 @@ date: 2016-04-18
 
 
 
-header1  
-=
-header2  
-==
-header3  
-===
-header4  
-====
-header5  
-=====
-header6  
+header 
+=  
+header2
+==  
+header3
+===  
+header4
+====  
+header5
+=====  
+header6
 ======  
 
+
+
 # header1 #   
+
 ## header2 ##    
+
 ### header3 ###    
+
 ##### header4 ####   
+
 ##### header5 #####    
+
 ###### header6 ######    
+
 
 *this had an asterisk*  
 
@@ -51,6 +59,8 @@ to see if it follows it.
 
 >>The End !!.....almost  
 >>  
+
+---
 
 1. Isa
 2. Delawa
