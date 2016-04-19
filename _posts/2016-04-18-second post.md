@@ -69,6 +69,8 @@ Need an enter between the last text and the h-rules.
 
 ---
 ---
+---
+
 
 
 
@@ -82,7 +84,6 @@ Need an enter between the last text and the h-rules.
 >
 
 two enters creates a new paragraph
-
 
 
 * this is an item
