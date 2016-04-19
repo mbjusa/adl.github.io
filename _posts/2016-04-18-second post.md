@@ -16,7 +16,7 @@ Need a blank line (Enter) between headers or they don't work right.
 
 One enter creates and end of line (js semicolon)
 
-# need return between headers #
+# header1 :need return between headers! #
 
 ## header2 ##
 
@@ -63,15 +63,11 @@ __The End !!.....almost__
   
    
    
-These are horizontal rules (a line across the page)   
+These are horizontal rules (a line across the page)
+It will only stack a maximum of 2.
+---
 ---
 
----
-
-Why won't it take more than two h-rules??
-
-
----
 
 
 >
@@ -88,9 +84,7 @@ two enters creates a new paragraph
 
 
 * this is an item
-* this is another item
-  *can I have an unordered sublist
-  *We will see soon
+* you cannot create a sublist in an unordered list.
 * this is the last item
 
 
