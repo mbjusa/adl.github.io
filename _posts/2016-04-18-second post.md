@@ -10,15 +10,17 @@ date: 2016-04-18
 ====
 
 Need a blank line (Enter) between headers or they don't work right.
+
 2nd header
 ----
 
+One enter creates and end of line (js semicolon)
 
-#need return between headers#
+# need return between headers #
 
-##header2##
+## header2 ##
 
-###header3###
+### header3 ###
 
 ##### header4 ####
 
@@ -66,16 +68,17 @@ These are horizontal rules (a line across the page)
 
 ---
 
+Why won't it take more than two h-rules??
 
 
 ---
-  
-  
+
+
 >
 1. __placed inside double underscore to make these bold__
 2. __need .'s next to the numbers!!__
 3. __Tatlo__
-    1. sublist
+    1. tab to create a sublist
     2. another
     3. and another
 >
@@ -86,13 +89,13 @@ two enters creates a new paragraph
 
 * this is an item
 * this is another item
-*     can I have an unordered sublist
-*     We will see soon
+  *can I have an unordered sublist
+  *We will see soon
 * this is the last item
 
 
->>__Now it's really the end !!!!!__
->>
+>>>__Now it's really the end !!!!!__
+>>>
 
 
 
