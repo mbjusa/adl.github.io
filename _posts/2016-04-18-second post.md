@@ -14,8 +14,6 @@ Need a blank line (Enter) between headers or they don't work right.
 ----
 
 
-
-
 #need return between headers#
 
 ##header2##
@@ -26,7 +24,7 @@ Need a blank line (Enter) between headers or they don't work right.
 
 ##### header5 #####
 
-###### header6 ######    
+###### header6 ######
 
 
 *this is italicized*  
@@ -37,9 +35,13 @@ _this text has one underscore and is also italicized_
 
 __this text has two underscores and is also bold__   
 
+***this has three asterisks and should be bold and italicized***
+
+___this has three underscores and should be bold and italicized___
+
 [aNameUpick4theLink](https://github.com/)  
 
-
+add at least 2 spaces after the image code to force a carriage return for the title.
 
 ![Alt text if img is missing!](http://img.lum.dolimg.com/v1/images/character_mickeymouse_home_mickey_notemplate_3a0db1b2.jpeg?region=0,0,600,600&width=320 "Title of your choice.")  
 __Title: This is Mickey's Pic__   
@@ -64,18 +66,28 @@ These are horizontal rules (a line across the page)
 
 ---
 
+
+
 ---
   
   
 >
-1. __placed inside double underscore to make this one bold__
-2. need .'s next to the numbers!!
-3. Tatlo
+1. __placed inside double underscore to make these bold__
+2. __need .'s next to the numbers!!__
+3. __Tatlo__
+    1. sublist
+    2. another
+    3. and another
 >
+
+two enters creates a new paragraph
+
 
 
 * this is an item
 * this is another item
+*     can I have an unordered sublist
+*     We will see soon
 * this is the last item
 
 
