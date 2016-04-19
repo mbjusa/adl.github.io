@@ -73,7 +73,7 @@ Need an enter between the last text and the h-rules.
 ---
 
 
-two enters in the lines above create a new 
+two enters in the lines above create a new paragraph
 
 >
 1. __placed inside double underscore to make these bold__
