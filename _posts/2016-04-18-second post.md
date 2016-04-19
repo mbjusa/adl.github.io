@@ -70,10 +70,10 @@ Need an enter between the last text and the h-rules.
 ---
 ---
 ---
+---
 
 
-
-
+two enters in the lines above create a new paragraph
 >
 1. __placed inside double underscore to make these bold__
 2. __need .'s next to the numbers!!__
@@ -83,9 +83,8 @@ Need an enter between the last text and the h-rules.
     3. and another
 >
 
-two enters creates a new paragraph
 
-
+two enters in the 2 lines above create a new paragraph
 * this is an item
 * you cannot create a sublist in an unordered list.
 * this is the last item
