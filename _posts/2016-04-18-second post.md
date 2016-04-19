@@ -14,7 +14,7 @@ Need a blank line (Enter) between headers or they don't work right.
 2nd header
 ----
 
-One enter creates and end of line (js semicolon)
+One enter creates an end of line (js semicolon)
 
 # header1 :need return between headers! #
 
@@ -56,15 +56,15 @@ Markdown is pretty easy to use I think !!!!__
 
 
 >>This is some normal text. I am creating a line break right here  
-to see if it follows it.  
+by adding two spaces to the end of the previous line.  
 >> 
 
 __The End !!.....almost__  
   
    
    
-These are horizontal rules (a line across the page)
-It will only stack a maximum of 2.
+These are horizontal rules (a line across the page)   
+It will only stack a maximum of 2.    
 ---
 ---
 
