@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "This is the title!!"
+title: "Created Markdown Template"
 date: 2016-04-18
 ---
 
@@ -65,6 +65,8 @@ __The End !!.....almost__
    
 These are horizontal rules (a line across the page)   
 It will only stack a maximum of 2.    
+Need an enter between the last text and the h-rules.  
+
 ---
 ---
 
