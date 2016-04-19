@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Created Markdown Template"
+title: "Created Markdown Template for Blogging"
 date: 2016-04-18
 ---
 
